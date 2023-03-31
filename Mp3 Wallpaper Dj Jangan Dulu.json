@@ -17,7 +17,7 @@
 
 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : false,
+"MODE_NO_ADS" : true,
 "ADS_ON_START" : false, // CTR NAIK PESAT
 "ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
@@ -46,7 +46,7 @@
 "UNITY_GAME_ID" : "12345",
 
 "STARTAPPID" : "123154",
-"ENABLE_STRAP" : true,
+"ENABLE_STRAP" : false,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
 "TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78q",
@@ -57,10 +57,10 @@
 //  help give us a 5 star rating, so we keep the spirit of providing the latest updates
 //  jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
 "EXIT_POPUP_DIALOG" : "
-help give us a 5 star rating
+Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
 
-so we keep the spirit of providing the latest updates
-
+agar kami dapat terus memberikan informasi informasi terbaru
+ 
 click rate now button
 ",
 "RATE_BUTTON" : "Rate Now",
