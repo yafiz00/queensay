@@ -31,7 +31,7 @@
 
 "INTER_COUNT" : "20",
 
-"ENABLE_STRAP" : true,
+"ENABLE_STRAP" : false,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
 "ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
@@ -45,11 +45,11 @@
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
 "ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
 
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "Bank Jenius",
-"HPK_ADMOB3" : "Simpati",
-"HPK_ADMOB4" : "Telkomsel",
+"HPK_ALIENDROID" : "bansos",
+"HPK_ADMOB1" : "pinjaman online",
+"HPK_ADMOB2" : "pinjol",
+"HPK_ADMOB3" : "bantuan sosial",
+"HPK_ADMOB4" : "cpns",
 "HPK_ADMOB5" : "Donasi",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
