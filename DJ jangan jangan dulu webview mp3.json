@@ -37,7 +37,7 @@
 "ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
 
 "MODE_OFFLINE_MP3" : false,
-"ENABLE_STICKY_NOTIFICATION" : true,
+"ENABLE_STICKY_NOTIFICATION" : false,
 
 "STARTAPPID" : "201365479",
 
@@ -45,12 +45,12 @@
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
 "ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
 
-"HPK_ALIENDROID" : "bansos",
-"HPK_ADMOB1" : "pinjaman online",
-"HPK_ADMOB2" : "pinjol",
-"HPK_ADMOB3" : "bantuan sosial",
-"HPK_ADMOB4" : "cpns",
-"HPK_ADMOB5" : "Donasi",
+"HPK_ALIENDROID" : "",
+"HPK_ADMOB1" : "",
+"HPK_ADMOB2" : "",
+"HPK_ADMOB3" : "",
+"HPK_ADMOB4" : "",
+"HPK_ADMOB5" : ",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
