@@ -78,11 +78,37 @@ you need to try download this too bro
 ]
 ,"Mp3": [
 
-  {    "name_mp3": "Beauty_Floet.mp3",    "link_mp3": "Beauty_Floet.mp3"  },
-  {    "name_mp3": "Nature_Piano.mp3",    "link_mp3": "Nature_Piano.mp3"  },
-  {    "name_mp3": "Water_Sound.mp3",    "link_mp3": "Water_Sound.mp3"  },
-  {    "name_mp3": "DJBERNYANYI.mp3",    "link_mp3": "https://ia802902.us.archive.org/28/items/gerejatuapanbersfeliixirwancover_202003/Gereja%20Tua%20Panbers%20%28%20Feliix%20Irwan%20Cover%20%29.mp4"  },
-  {    "name_mp3": "ingin hilang ingatan",    "link_mp3": "https://ia802907.us.archive.org/11/items/inginhilangingatan/Ingin%20hilang%20ingatan.mp3"  }
+   { "name_mp3": "01. DJ DE RA GO SOUND KING PLAT KT.MP3",    "link_mp3": "01. DJ DE RA GO SOUND KING PLAT KT.MP3"  },
+   { "name_mp3": "02. DJ AIYA SUSANTI PEREMPUAN MUDA.MP3",    "link_mp3": "02. DJ AIYA SUSANTI PEREMPUAN MUDA.MP3"  },
+   { "name_mp3": "03. DJ MAPOPO SYALALA.MP3",    "link_mp3": "03. DJ MAPOPO SYALALA.MP3"  },
+   { "name_mp3": "04. DJ YANG PENTING HAPPY.MP3",   "link_mp3": "04. DJ YANG PENTING HAPPY.MP3" },
+   { "name_mp3": "05. DJ SUWUNG.MP3",    "link_mp3": "05. DJ SUWUNG.MP3"  },
+   { "name_mp3": "06. DJ TIARA.MP3",    "link_mp3": "06. DJ TIARA.MP3"  },
+   { "name_mp3": "07. DJ SIAL MAHALINI BAGAIMANA DENGAN AKU.MP3",    "link_mp3": "07. DJ SIAL MAHALINI BAGAIMANA DENGAN AKU.MP3"  },
+   { "name_mp3": "08. DJ SENGKUNI LEDA LEDE NONG JI.MP3",   "link_mp3": "08. DJ SENGKUNI LEDA LEDE NONG JI.MP3" },
+   { "name_mp3": "09. DJ MOVE IT PARGOY.MP3",    "link_mp3": "09. DJ MOVE IT PARGOY.MP3"  },
+   { "name_mp3": "10. DJ LEFT RIGHT X PAK PONG VONG.MP3",    "link_mp3": "10. DJ LEFT RIGHT X PAK PONG VONG.MP3"  },
+   { "name_mp3": "11. DJ KILL BILL SLOW BASS.MP3",    "link_mp3": "11. DJ KILL BILL SLOW BASS.MP3"  },
+   { "name_mp3": "12. DJ DERMAGA BIRU.MP3",   "link_mp3": "12. DJ DERMAGA BIRU.MP3" },
+   { "name_mp3": "13. DJ AKU SEKUAT HATI BERTAHAN.MP3",    "link_mp3": "13. DJ AKU SEKUAT HATI BERTAHAN.MP3"  },
+   { "name_mp3": "14. DJ JANGAN PERNAH KAU SAKITI AKU LAGI.MP3",    "link_mp3": "14. DJ JANGAN PERNAH KAU SAKITI AKU LAGI.MP3"  },
+   { "name_mp3": "15. DJ SAYUNK I LOVE YOU CHOMBI.MP3",    "link_mp3": "15. DJ SAYUNK I LOVE YOU CHOMBI.MP3"  },
+   { "name_mp3": "16. DJ GADIS BAJU MERAH.MP3",   "link_mp3": "16. DJ GADIS BAJU MERAH.MP3" },
+   { "name_mp3": "17. DJ TOLONG JAGA PERASAANKU.MP3",    "link_mp3": "17. DJ TOLONG JAGA PERASAANKU.MP3"  },
+   { "name_mp3": "18. DJ RUNTAH BIWIR BEREUM BEREUM.MP3",    "link_mp3": "18. DJ RUNTAH BIWIR BEREUM BEREUM.MP3"  },
+   { "name_mp3": "19. DJ SATU RASA CINTA JANGAN TANYA.MP3",    "link_mp3": "19. DJ SATU RASA CINTA JANGAN TANYA.MP3"  },
+   { "name_mp3": "20. DJ ABANG BANTING DEDEK BANG.MP3",   "link_mp3": "20. DJ ABANG BANTING DEDEK BANG.MP3" },
+   { "name_mp3": "21. DJ AKU BUKAN JODOHNYA.MP3",    "link_mp3": "21. DJ AKU BUKAN JODOHNYA.MP3"  },
+   { "name_mp3": "22. DJ NO COMMENT.MP3",    "link_mp3": "22. DJ NO COMMENT.MP3"  },
+   { "name_mp3": "23. DJ IH ABANG JAHAT AKU TUH CINTA BERAT.MP3",    "link_mp3": "23. DJ IH ABANG JAHAT AKU TUH CINTA BERAT.MP3"  },
+   { "name_mp3": "24. DJ KALIH WELASKU.MP3",   "link_mp3": "24. DJ KALIH WELASKU.MP3" },
+   { "name_mp3": "25. DJ ISTANA BINTANG.MP3",    "link_mp3": "25. DJ ISTANA BINTANG.MP3"  },
+   { "name_mp3": "26. DJ CARE BEBEK.MP3",    "link_mp3": "26. DJ CARE BEBEK.MP3"  },
+   { "name_mp3": "27. DJ ITANENG TENRI BOLO.MP3",    "link_mp3": "27. DJ ITANENG TENRI BOLO.MP3"  },
+   { "name_mp3": "28. DJ AKU TAKUT KEHILANGAN DIRIMU.MP3",   "link_mp3": "28. DJ AKU TAKUT KEHILANGAN DIRIMU.MP3" },
+   { "name_mp3": "29. DJ MANGKU PUREL.MP3",    "link_mp3": "29. DJ MANGKU PUREL.MP3"  },
+   { "name_mp3": "30. DJ RASAH BALI RUNGOKNO.MP3",    "link_mp3": "30. DJ RASAH BALI RUNGOKNO.MP3"  }
+
 
 
 ],
