@@ -17,7 +17,7 @@
 
 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "ADS_ON_START" : false, // CTR NAIK PESAT
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
@@ -72,7 +72,7 @@ this the best apps ever, ive try it and so awesome
 you need to try download this too bro
 ",
 "MORE_BUTTON" : "Share Via Whatsapp",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.bohkreh.djpantunjandaviral"
 
 }
 ]
