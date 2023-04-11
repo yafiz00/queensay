@@ -1,0 +1,223 @@
+{
+"Ads": [
+{
+
+//  STATUS_APP = "0" must set 0 if your app still live on playstore
+//  and STATUS_APP = "1" if your app "suspend"
+//  fill LINK_REDIRECT with new link app
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// memanggil data dari json "online" atau json "offline"
+//  online atau offline
+// jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
+//  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
+// online offline huruf kecil
+"MODE_MP3_ONLINE_OFFLINE" : "online",
+
+
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : true,
+"ADS_ON_START" : false, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
+
+"JSON_POPUP_WAIT" : "Server Json Ready . . .",
+"MODE_NO_ADS_TRUE" : "Pro Version Actived",
+
+// PENGATURAN IKLAN
+// ADMOB      backup unity backup startapp
+// FAN        backup unity backup startapp
+// UNITY      backup startapp
+// TAPDAQ     backup unity backup startapp
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"INTER_COUNT" : 6,
+
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_OPENADS" : "BIARKAN KOSONG",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "5241469",
+
+"STARTAPPID" : "123154",
+"ENABLE_STRAP" : false,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+
+"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
+"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+
+//  Exit Dialog
+//  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+//  help give us a 5 star rating, so we keep the spirit of providing the latest updates
+//  jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"EXIT_POPUP_DIALOG" : "
+help give us a 5 star rating
+
+so we keep the spirit of providing the latest updates
+
+click rate now button
+",
+"RATE_BUTTON" : "Rate Now",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "
+this the best apps ever, ive try it and so awesome
+
+you need to try download this too bro
+",
+"MORE_BUTTON" : "Share Via Whatsapp",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
+
+}
+]
+,"Mp3": [
+
+   { "name_mp3": "DJ YANG ALOLOLO SAYANG REMIX FULL BASS.mp3",    "link_mp3": "DJ YANG ALOLOLO SAYANG REMIX FULL BASS.mp3"  },
+   { "name_mp3": "01. DJ DE RA GO SOUND KING PLAT KT.MP3",    "link_mp3": "01. DJ DE RA GO SOUND KING PLAT KT.MP3"  },
+   { "name_mp3": "02. DJ AIYA SUSANTI PEREMPUAN MUDA.MP3",    "link_mp3": "02. DJ AIYA SUSANTI PEREMPUAN MUDA.MP3"  },
+   { "name_mp3": "03. DJ MAPOPO SYALALA.MP3",    "link_mp3": "03. DJ MAPOPO SYALALA.MP3"  },
+   { "name_mp3": "04. DJ YANG PENTING HAPPY.MP3",   "link_mp3": "04. DJ YANG PENTING HAPPY.MP3" },
+   { "name_mp3": "05. DJ SUWUNG.MP3",    "link_mp3": "05. DJ SUWUNG.MP3"  },
+   { "name_mp3": "06. DJ TIARA.MP3",    "link_mp3": "06. DJ TIARA.MP3"  },
+   { "name_mp3": "07. DJ SIAL MAHALINI BAGAIMANA DENGAN AKU.MP3",    "link_mp3": "07. DJ SIAL MAHALINI BAGAIMANA DENGAN AKU.MP3"  },
+   { "name_mp3": "08. DJ SENGKUNI LEDA LEDE NONG JI.MP3",   "link_mp3": "08. DJ SENGKUNI LEDA LEDE NONG JI.MP3" },
+   { "name_mp3": "09. DJ MOVE IT PARGOY.MP3",    "link_mp3": "09. DJ MOVE IT PARGOY.MP3"  },
+   { "name_mp3": "10. DJ LEFT RIGHT X PAK PONG VONG.MP3",    "link_mp3": "10. DJ LEFT RIGHT X PAK PONG VONG.MP3"  },
+   { "name_mp3": "11. DJ KILL BILL SLOW BASS.MP3",    "link_mp3": "11. DJ KILL BILL SLOW BASS.MP3"  },
+   { "name_mp3": "12. DJ DERMAGA BIRU.MP3",   "link_mp3": "12. DJ DERMAGA BIRU.MP3" },
+   { "name_mp3": "13. DJ AKU SEKUAT HATI BERTAHAN.MP3",    "link_mp3": "13. DJ AKU SEKUAT HATI BERTAHAN.MP3"  },
+   { "name_mp3": "14. DJ JANGAN PERNAH KAU SAKITI AKU LAGI.MP3",    "link_mp3": "14. DJ JANGAN PERNAH KAU SAKITI AKU LAGI.MP3"  },
+   { "name_mp3": "15. DJ SAYUNK I LOVE YOU CHOMBI.MP3",    "link_mp3": "15. DJ SAYUNK I LOVE YOU CHOMBI.MP3"  },
+   { "name_mp3": "16. DJ GADIS BAJU MERAH.MP3",   "link_mp3": "16. DJ GADIS BAJU MERAH.MP3" },
+   { "name_mp3": "17. DJ TOLONG JAGA PERASAANKU.MP3",    "link_mp3": "17. DJ TOLONG JAGA PERASAANKU.MP3"  },
+   { "name_mp3": "18. DJ RUNTAH BIWIR BEREUM BEREUM.MP3",    "link_mp3": "18. DJ RUNTAH BIWIR BEREUM BEREUM.MP3"  },
+   { "name_mp3": "19. DJ SATU RASA CINTA JANGAN TANYA.MP3",    "link_mp3": "19. DJ SATU RASA CINTA JANGAN TANYA.MP3"  },
+   { "name_mp3": "20. DJ ABANG BANTING DEDEK BANG.MP3",   "link_mp3": "20. DJ ABANG BANTING DEDEK BANG.MP3" },
+   { "name_mp3": "21. DJ AKU BUKAN JODOHNYA.MP3",    "link_mp3": "21. DJ AKU BUKAN JODOHNYA.MP3"  },
+   { "name_mp3": "22. DJ NO COMMENT.MP3",    "link_mp3": "22. DJ NO COMMENT.MP3"  },
+   { "name_mp3": "23. DJ IH ABANG JAHAT AKU TUH CINTA BERAT.MP3",    "link_mp3": "23. DJ IH ABANG JAHAT AKU TUH CINTA BERAT.MP3"  },
+   { "name_mp3": "24. DJ KALIH WELASKU.MP3",   "link_mp3": "24. DJ KALIH WELASKU.MP3" },
+   { "name_mp3": "25. DJ ISTANA BINTANG.MP3",    "link_mp3": "25. DJ ISTANA BINTANG.MP3"  },
+   { "name_mp3": "26. DJ CARE BEBEK.MP3",    "link_mp3": "26. DJ CARE BEBEK.MP3"  },
+   { "name_mp3": "27. DJ ITANENG TENRI BOLO.MP3",    "link_mp3": "27. DJ ITANENG TENRI BOLO.MP3"  },
+   { "name_mp3": "28. DJ AKU TAKUT KEHILANGAN DIRIMU.MP3",   "link_mp3": "28. DJ AKU TAKUT KEHILANGAN DIRIMU.MP3" },
+   { "name_mp3": "29. DJ MANGKU PUREL.MP3",    "link_mp3": "29. DJ MANGKU PUREL.MP3"  },
+   { "name_mp3": "30. DJ RASAH BALI RUNGOKNO.MP3",    "link_mp3": "30. DJ RASAH BALI RUNGOKNO.MP3"  }
+
+
+],
+"Wallpaper": [
+
+ {"image": "file:///android_asset/file_1654872281886.jpg"},
+{"image": "file:///android_asset/file_1654872282008.jpg"},
+{"image": "file:///android_asset/file_1654872282121.jpg"},
+{"image": "file:///android_asset/file_1654872282249.jpg"},
+{"image": "file:///android_asset/file_1654872282360.jpg"},
+{"image": "file:///android_asset/file_1654872282519.jpg"},
+{"image": "file:///android_asset/file_1654872282660.jpg"},
+{"image": "file:///android_asset/file_1654872282970.jpg"},
+{"image": "file:///android_asset/file_1654872283141.jpg"},
+{"image": "file:///android_asset/file_1654872283255.jpg"},
+{"image": "file:///android_asset/file_1654872283357.jpg"},
+{"image": "file:///android_asset/file_1654872283524.jpg"},
+{"image": "file:///android_asset/file_1654872283626.jpg"},
+{"image": "file:///android_asset/file_1654872283856.jpg"},
+{"image": "file:///android_asset/file_1654872283958.jpg"},
+{"image": "file:///android_asset/file_1654872284078.jpg"},
+{"image": "file:///android_asset/file_1654872284242.jpg"},
+{"image": "file:///android_asset/file_1654872284358.jpg"},
+{"image": "file:///android_asset/file_1654872284549.jpg"},
+{"image": "file:///android_asset/file_1654872284702.jpg"},
+{"image": "file:///android_asset/file_1654872284875.jpg"},
+{"image": "file:///android_asset/file_1654872285071.jpg"},
+{"image": "file:///android_asset/file_1654872285246.jpg"},
+{"image": "file:///android_asset/file_1654872285378.jpg"},
+{"image": "file:///android_asset/file_1654872285550.jpg"},
+{"image": "file:///android_asset/file_1654872285663.jpg"},
+{"image": "file:///android_asset/file_1654872285820.jpg"},
+{"image": "file:///android_asset/file_1654872285988.jpg"},
+{"image": "file:///android_asset/file_1654872286195.jpg"},
+{"image": "file:///android_asset/file_1654872286294.jpg"},
+{"image": "file:///android_asset/file_1654872286483.jpg"},
+{"image": "file:///android_asset/file_1654872286617.jpg"},
+{"image": "file:///android_asset/file_1654872286744.jpg"},
+{"image": "file:///android_asset/file_1654872286904.jpg"},
+{"image": "file:///android_asset/file_1654872287106.jpg"},
+{"image": "file:///android_asset/file_1654872287209.jpg"},
+{"image": "file:///android_asset/file_1654872287337.jpg"},
+{"image": "file:///android_asset/file_1654872287450.jpg"},
+{"image": "file:///android_asset/file_1654872287561.jpg"},
+{"image": "file:///android_asset/file_1654872287670.jpg"},
+{"image": "file:///android_asset/file_1654872287934.jpg"},
+{"image": "file:///android_asset/file_1654872288047.jpg"},
+{"image": "file:///android_asset/file_1654872288305.jpg"},
+{"image": "file:///android_asset/file_1654872288410.jpg"},
+{"image": "file:///android_asset/file_1654872288576.jpg"},
+{"image": "file:///android_asset/file_1654872288746.jpg"},
+{"image": "file:///android_asset/file_1654872288847.jpg"},
+{"image": "file:///android_asset/file_1654872288941.jpg"},
+{"image": "file:///android_asset/file_1654872289060.jpg"},
+{"image": "file:///android_asset/file_1654872289168.jpg"},
+{"image": "file:///android_asset/file_1654872289318.jpg"},
+{"image": "file:///android_asset/file_1654872289484.jpg"},
+{"image": "file:///android_asset/file_1654872289621.jpg"},
+{"image": "file:///android_asset/file_1654872289737.jpg"},
+{"image": "file:///android_asset/file_1654872289839.jpg"},
+{"image": "file:///android_asset/file_1654872289986.jpg"},
+{"image": "file:///android_asset/file_1654872290133.jpg"},
+{"image": "file:///android_asset/file_1654872290233.jpg"},
+{"image": "file:///android_asset/file_1654872290397.jpg"},
+{"image": "file:///android_asset/file_1654872290568.jpg"},
+{"image": "file:///android_asset/file_1654872290745.jpg"},
+{"image": "file:///android_asset/file_1654872290848.jpg"},
+{"image": "file:///android_asset/file_1654872291074.jpg"},
+{"image": "file:///android_asset/file_1654872291199.jpg"},
+{"image": "file:///android_asset/file_1654872291449.jpg"},
+{"image": "file:///android_asset/file_1654872291610.jpg"},
+{"image": "file:///android_asset/file_1654872291706.jpg"},
+{"image": "file:///android_asset/file_1654872291797.jpg"},
+{"image": "file:///android_asset/file_1654872291897.jpg"},
+{"image": "file:///android_asset/file_1654872291991.jpg"},
+{"image": "file:///android_asset/file_1654872292092.jpg"},
+{"image": "file:///android_asset/file_1654872292240.jpg"},
+{"image": "file:///android_asset/file_1654872292374.jpg"},
+{"image": "file:///android_asset/file_1654872292471.jpg"},
+{"image": "file:///android_asset/file_1654872292620.jpg"},
+{"image": "file:///android_asset/file_1654872292763.jpg"},
+{"image": "file:///android_asset/file_1654872292884.jpg"},
+{"image": "file:///android_asset/file_1654872293041.jpg"},
+{"image": "file:///android_asset/file_1654872293192.jpg"},
+{"image": "file:///android_asset/file_1654872293289.jpg"},
+{"image": "file:///android_asset/file_1654872293382.jpg"},
+{"image": "file:///android_asset/file_1654872293474.jpg"},
+{"image": "file:///android_asset/file_1654872293606.jpg"},
+{"image": "file:///android_asset/file_1654872293787.jpg"},
+{"image": "file:///android_asset/file_1654872293942.jpg"},
+{"image": "file:///android_asset/file_1654872294155.jpg"},
+{"image": "file:///android_asset/file_1654872294330.jpg"},
+{"image": "file:///android_asset/file_1654872294569.jpg"},
+{"image": "file:///android_asset/file_1654872294916.jpg"},
+{"image": "file:///android_asset/file_1654872295069.jpg"},
+{"image": "file:///android_asset/file_1654872295230.jpg"},
+{"image": "file:///android_asset/file_1654872295357.jpg"},
+{"image": "file:///android_asset/file_1654872295520.jpg"},
+{"image": "file:///android_asset/file_1654872295641.jpg"},
+{"image": "file:///android_asset/file_1654872295859.jpg"},
+{"image": "file:///android_asset/file_1654872295983.jpg"},
+{"image": "file:///android_asset/file_1654872296118.jpg"},
+{"image": "file:///android_asset/file_1654872296226.jpg"},
+{"image": "file:///android_asset/file_1654872296331.jpg"},
+{"image": "file:///android_asset/file_1654872296540.jpg"},
+{"image": "file:///android_asset/file_1654872296628.jpg"},
+{"image": "file:///android_asset/file_1654872296777.jpg"},
+{"image": "file:///android_asset/file_1654872296981.jpg"},
+{"image": "file:///android_asset/file_1654872608562.jpg"}
+
+]
+}
