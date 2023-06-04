@@ -17,7 +17,7 @@
 
 
 "MODE_BACKUP_ADS" : false,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "ADS_ON_START" : true, // CTR NAIK PESAT
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
